@@ -13,6 +13,7 @@ LeetCode problem solutions and DSA practice in Java.
 | [0001-two-sum](https://github.com/AyanAli007/algo-odyssey/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyanAli007/algo-odyssey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/AyanAli007/algo-odyssey/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyanAli007/algo-odyssey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AyanAli007/algo-odyssey/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ LeetCode problem solutions and DSA practice in Java.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyanAli007/algo-odyssey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/AyanAli007/algo-odyssey/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyanAli007/algo-odyssey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AyanAli007/algo-odyssey/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
