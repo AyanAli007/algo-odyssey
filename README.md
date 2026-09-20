@@ -7,6 +7,7 @@ LeetCode problem solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/AyanAli007/algo-odyssey/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/AyanAli007/algo-odyssey/tree/main/0013-roman-to-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ LeetCode problem solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AyanAli007/algo-odyssey/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/AyanAli007/algo-odyssey/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/AyanAli007/algo-odyssey/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -45,4 +47,8 @@ LeetCode problem solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AyanAli007/algo-odyssey/tree/main/0169-majority-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/AyanAli007/algo-odyssey/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
